@@ -1,0 +1,20 @@
+{
+  "short_name": "Proyectos- Compras",
+  "name": "Proyectos- Compras",
+  "icons": [
+    {
+      "src": "https://static.vecteezy.com/system/resources/previews/008/852/473/non_2x/shopping-bags-and-paper-shopping-list-options-or-reminders-isolated-on-a-white-background-3d-rendering-free-photo.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://static.vecteezy.com/system/resources/previews/008/852/473/non_2x/shopping-bags-and-paper-shopping-list-options-or-reminders-isolated-on-a-white-background-3d-rendering-free-photo.jpgk",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/proyectosapp/index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#f5f5f5"
+}
